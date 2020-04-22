@@ -27,7 +27,7 @@ void main()
 	cout << "Inicialice su lista" << endl;
 	
 	cout << "Tamanio Lista: "<< highScore->GetSizeListHighScore() << endl;
-	for(int i = 0; i < highScore->GetSizeListHighScore(); i++)
+	for(int i = 0; i < highScore->GetSizeListHighScore() + 1; i++)
 	{
 		fflush(stdin);
 		cout << "Nombre: ";

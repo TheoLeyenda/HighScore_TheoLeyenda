@@ -103,6 +103,11 @@ NodeScore HighScore::GetNodeScore(int indexScore)
 	}
 
 }
+int HighScore::GetSizeInternalListHighScore()
+{
+	int size = ListScores->size();
+	return size;
+}
 void HighScore::ClearListHighScore()
 {
 	ListScores->clear();

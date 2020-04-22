@@ -28,7 +28,7 @@ namespace HighScoreListLT {
 		NodeScore GetNodeScore(int indexScore);
 		void ClearListHighScore();
 		int GetSizeListHighScore();
-		//int GetSizeInternalListHighScore();
+		int GetSizeInternalListHighScore();
 		~HighScore();
 	};
 	
