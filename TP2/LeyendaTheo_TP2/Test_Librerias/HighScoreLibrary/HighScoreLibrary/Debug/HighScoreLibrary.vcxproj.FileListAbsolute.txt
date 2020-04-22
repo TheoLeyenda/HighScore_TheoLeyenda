@@ -1,6 +1,0 @@
-C:\Users\Theo\Desktop\HighScoreLibrary\Debug\HighScoreLibrary.pdb
-C:\Users\Theo\Desktop\HighScoreLibrary\HighScoreLibrary\Debug\HighScoreLibrary.pdb
-C:\Users\Theo\Desktop\TP2\LeyendaTheo_TP2\Test_Librerias\HighScoreLibrary\Debug\HighScoreLibrary.pdb
-C:\Users\Theo\Desktop\TP2\LeyendaTheo_TP2\Test_Librerias\HighScoreLibrary\HighScoreLibrary\Debug\HighScoreLibrary.pdb
-C:\Users\Theo\Desktop\HighScore_TheoLeyenda\TP2\LeyendaTheo_TP2\Test_Librerias\HighScoreLibrary\Debug\HighScoreLibrary.pdb
-C:\Users\Theo\Desktop\HighScore_TheoLeyenda\TP2\LeyendaTheo_TP2\Test_Librerias\HighScoreLibrary\HighScoreLibrary\Debug\HighScoreLibrary.pdb
