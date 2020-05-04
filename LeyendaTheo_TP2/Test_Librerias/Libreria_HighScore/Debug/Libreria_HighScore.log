@@ -1,1 +1,4 @@
-﻿  Libreria_HighScore.vcxproj -> C:\Users\Theo\Desktop\HighScore_TheoLeyenda\TP2\LeyendaTheo_TP2\Test_Librerias\Debug\Libreria_HighScore.exe
+﻿  Test.cpp
+C:\Users\Theo\Desktop\HighScore_TheoLeyenda\LeyendaTheo_TP2\Test_Librerias\Libreria_HighScore\Test.cpp(5,1): warning C4326: el tipo de valor devuelto de 'main' debe ser 'int' en lugar de 'void'
+C:\Users\Theo\Desktop\HighScore_TheoLeyenda\LeyendaTheo_TP2\Test_Librerias\Libreria_HighScore\Test.cpp(40,26): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+  Libreria_HighScore.vcxproj -> C:\Users\Theo\Desktop\HighScore_TheoLeyenda\LeyendaTheo_TP2\Test_Librerias\Debug\Libreria_HighScore.exe

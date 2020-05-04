@@ -16,6 +16,7 @@ void main()
 
 	highScorePorDefecto->ClearListHighScore(); //Limpia La Lista de HighScore.
 	cin.get();
+	//cin.get();
 	fflush(stdin);
 	system("cls");
 
@@ -27,7 +28,7 @@ void main()
 	cout << "Inicialice su lista" << endl;
 	
 	cout << "Tamanio Lista: "<< highScore->GetSizeListHighScore() << endl;
-	for(int i = 0; i < highScore->GetSizeListHighScore() + 1; i++)
+	for(int i = 0; i < highScore->GetSizeListHighScore(); i++)
 	{
 		fflush(stdin);
 		cout << "Nombre: ";
